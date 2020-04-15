@@ -1,0 +1,52 @@
+<section class="blog py-5">
+	<div class="container py-md-3">
+		<h2 class="heading text-center mb-sm-5 mb-4">Dental blog </h2>
+		<div class="row blog-grids head">
+			<div class="col-lg-7 mb-lg-5 blog-img1">
+				<img src="images/img/article.jpg" alt="" class="img-fluid"/>
+				<a href="single.html">Blog #1</a>
+			</div>
+			<div class="col-lg-5 mb-lg-5 mb-4">
+				<h5>March 3, 2019.</h5>
+				<h4 class="my-3">Nullam dui mi, vulputate ac</h4>
+				<p class="my-3">onec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus semper Nullam dui mi.
+				 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices morbi posuere cubilia Curae; Curabitur quis luctus lectus.</p>
+				<a href="single.html" class="btn-banner"> View Post </a>
+			</div>
+			<div class="col-lg-5 mb-lg-5 mb-4">
+				<h5>March 3, 2019.</h5>
+				<h4 class="my-3">Nullam dui mi, vulputate ac</h4>
+				<p class="my-3">onec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus semper Nullam dui mi.
+				 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices morbi posuere cubilia Curae; Curabitur quis luctus lectus.</p>
+				<a href="single.html" class="btn-banner"> View Post </a>
+			</div>
+			<div class="col-lg-7 mb-5 blog-img2">
+				<img src="images/img/article.jpg" alt="" class="img-fluid"/>
+				<a href="single.html">Blog #2</a>
+			</div>
+			<div class="col-lg-7 mb-lg-5 blog-img1">
+				<img src="images/img/article.jpg" alt="" class="img-fluid"/>
+				<a href="single.html">Blog #3</a>
+			</div>
+			<div class="col-lg-5 mb-lg-5 mb-4">
+				<h5>March 3, 2019.</h5>
+				<h4 class="my-3">Nullam dui mi, vulputate ac</h4>
+				<p class="my-3">onec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus semper Nullam dui mi.
+				 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices morbi posuere cubilia Curae; Curabitur quis luctus lectus.</p>
+				<a href="single.html" class="btn-banner"> View Post </a>
+			</div>
+			<div class="col-lg-5 mb-lg-5 mb-4">
+				<h5>March 3, 2019.</h5>
+				<h4 class="my-3">Nullam dui mi, vulputate ac</h4>
+				<p class="my-3">onec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus semper Nullam dui mi.
+				 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices morbi posuere cubilia Curae; Curabitur quis luctus lectus.</p>
+				<a href="single.html" class="btn-banner"> View Post </a>
+			</div>
+			<div class="col-lg-7 blog-img2">
+				<img src="images/img/article.jpg" alt="" class="img-fluid"/>
+				<a href="single.html">Blog #4</a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- //blog -->
